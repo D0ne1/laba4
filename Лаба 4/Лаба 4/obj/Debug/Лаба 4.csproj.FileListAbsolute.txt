@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\bin\Debug\Лаба 4.exe.config
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\bin\Debug\Лаба 4.exe
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\bin\Debug\Лаба 4.pdb
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\obj\Debug\Лаба 4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\obj\Debug\Лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\obj\Debug\Лаба 4.exe
+C:\Users\PC\Desktop\данил\Универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\obj\Debug\Лаба 4.pdb
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\bin\Debug\Лаба 4.exe.config
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\bin\Debug\Лаба 4.exe
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\bin\Debug\Лаба 4.pdb
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\obj\Debug\Лаба 4.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\obj\Debug\Лаба 4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\obj\Debug\Лаба 4.exe
+C:\Users\PC\Desktop\ДАНИИЛ\универ\прога\Лабораторная работа 4\Лаба 4\Лаба 4\obj\Debug\Лаба 4.pdb
